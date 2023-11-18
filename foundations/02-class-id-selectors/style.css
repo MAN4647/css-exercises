@@ -1,0 +1,20 @@
+.class_1, .cooler_class, .class_5 {
+  background-color:#f97008;
+  font-family: verdana, sans-serif;
+}
+
+#id_1 {
+  color : #0000ff;
+  font-size: 36px;
+}
+
+.cooler_class {
+  font-size: 24px;
+}
+
+#id_2 {
+  background-color: #90ee90;
+  font-size: 24px;
+  font-weight: bold;
+}
+
